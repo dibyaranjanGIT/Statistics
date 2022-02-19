@@ -1,6 +1,11 @@
 # Statistics
 
-
+![DocScanner Feb 19, 2022 22-25_1](https://user-images.githubusercontent.com/45364252/154811627-fac0cf14-e458-40f6-89f3-b6a708205eff.jpg)
+![DocScanner Feb 19, 2022 22-25_2](https://user-images.githubusercontent.com/45364252/154811638-b3effd31-0066-4348-9175-df447e0857e8.jpg)
+![DocScanner Feb 19, 2022 22-25_3](https://user-images.githubusercontent.com/45364252/154811645-d0629b5f-727a-45d0-94cc-04df37df1122.jpg)
+![DocScanner Feb 19, 2022 22-25_4](https://user-images.githubusercontent.com/45364252/154811648-61641c98-2605-44ce-98b4-c7c2d59135ed.jpg)
+![DocScanner Feb 19, 2022 22-25_5](https://user-images.githubusercontent.com/45364252/154811654-00b8c338-0d60-426d-8608-b3f278ac30e1.jpg)
+![DocScanner Feb 19, 2022 22-25_6](https://user-images.githubusercontent.com/45364252/154811658-2e9f5524-8394-465f-a634-c328b8cdd099.jpg)
 ![DocScanner Feb 19, 2022 22-25_7](https://user-images.githubusercontent.com/45364252/154811513-d9f41691-c668-47fc-bc8f-b6fd5ca0f3da.jpg)
 ![DocScanner Feb 19, 2022 22-25_8](https://user-images.githubusercontent.com/45364252/154811519-528b5c4e-f803-4d0c-b6e6-d507dc6171e2.jpg)
 ![DocScanner Feb 19, 2022 22-25_9](https://user-images.githubusercontent.com/45364252/154811523-0e77a9d4-c910-4d68-bf24-b1e7d9fb73d5.jpg)
@@ -23,9 +28,4 @@
 ![DocScanner Feb 19, 2022 22-25_26](https://user-images.githubusercontent.com/45364252/154811598-952a03b4-d47e-4949-8ee6-b8b6de07053d.jpg)
 ![DocScanner Feb 19, 2022 22-25_27](https://user-images.githubusercontent.com/45364252/154811609-c5ee7630-2bd2-4a79-8d5f-5c5598c1c24f.jpg)
 ![DocScanner Feb 19, 2022 22-25_28](https://user-images.githubusercontent.com/45364252/154811618-98d4ac59-a311-42f3-94c5-cef0b9fa7fc7.jpg)
-![DocScanner Feb 19, 2022 22-25_1](https://user-images.githubusercontent.com/45364252/154811627-fac0cf14-e458-40f6-89f3-b6a708205eff.jpg)
-![DocScanner Feb 19, 2022 22-25_2](https://user-images.githubusercontent.com/45364252/154811638-b3effd31-0066-4348-9175-df447e0857e8.jpg)
-![DocScanner Feb 19, 2022 22-25_3](https://user-images.githubusercontent.com/45364252/154811645-d0629b5f-727a-45d0-94cc-04df37df1122.jpg)
-![DocScanner Feb 19, 2022 22-25_4](https://user-images.githubusercontent.com/45364252/154811648-61641c98-2605-44ce-98b4-c7c2d59135ed.jpg)
-![DocScanner Feb 19, 2022 22-25_5](https://user-images.githubusercontent.com/45364252/154811654-00b8c338-0d60-426d-8608-b3f278ac30e1.jpg)
-![DocScanner Feb 19, 2022 22-25_6](https://user-images.githubusercontent.com/45364252/154811658-2e9f5524-8394-465f-a634-c328b8cdd099.jpg)
+
