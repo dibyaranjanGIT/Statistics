@@ -1,5 +1,10 @@
 # Statistics
 
+![image](https://user-images.githubusercontent.com/45364252/156574956-233374b9-683e-40a7-b29b-be80774e1c3d.png)
+
+![image](https://user-images.githubusercontent.com/45364252/156575099-2464e10e-a8c0-464f-a20a-272d9f287441.png)
+
+
 ![DocScanner Feb 19, 2022 22-25_1](https://user-images.githubusercontent.com/45364252/154811627-fac0cf14-e458-40f6-89f3-b6a708205eff.jpg)
 ![DocScanner Feb 19, 2022 22-25_2](https://user-images.githubusercontent.com/45364252/154811638-b3effd31-0066-4348-9175-df447e0857e8.jpg)
 ![DocScanner Feb 19, 2022 22-25_3](https://user-images.githubusercontent.com/45364252/154811645-d0629b5f-727a-45d0-94cc-04df37df1122.jpg)
